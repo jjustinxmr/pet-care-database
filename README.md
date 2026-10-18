@@ -1,5 +1,10 @@
 # pet-care-database
 MySQL database design and EER diagram for a Pet Daily Care system, created for a 2nd-year university project.
+## Contributors
+This project was a collaborative effort between:
+- **Jastin (jjustinxmr)** - Core database engineering, custom scripts and Co-designer.
+- **Pongsakorn (axmpk)** - Designer, SQL query development and documentation.
+
 ## EER Diagram
 Below is the Entity-Relationship Diagram for this project:
 
